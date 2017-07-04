@@ -29,4 +29,4 @@ The initial structure is:
 
 11 - Any member of the council or high council is free to give-up the position at any time, when this happen a election on the council will be made and majority must be achieved to decide a replacement.
 
-12 - Any member of the council that do not vote in polls in for more them 3 months will automatically give-up his position.
+12 - Any member of the council that do not vote in polls in for more them 45 days will automatically give-up his position.
