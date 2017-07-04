@@ -1,9 +1,9 @@
 # Community governance
 
 This is home of City of Zion (CoZ) community rules and reports.
-Our formalization is the reflect of a humble move from NEO team to receive our contributions and if quality work is continued provide support.
+Our formalization is a reflection of a humble move from NEO team to receive our contributions and if quality work is continued provide support.
 
-There is complete freedom in the targets and objectives off the community. That said, our goal is to improve NEO, so we will align with needs and avoid re-work as much as possible, unless it is to attain a new level of quality.
+There is complete freedom in the targets and objectives of the community. That said, our goal is to improve NEO, so we will align with needs and avoid re-work as much as possible, unless it is to attain a new level of quality.
 
 The initial structure is:
 
@@ -27,4 +27,6 @@ The initial structure is:
 
 10 - The high council will be voted every quarter, we will sync with years quarters. The first election will be on 1 October 2017. The newly elected high council can propose changes to this rules during the 1st week after the election, changes should be voted as item 7.
 
-11 - Any member of the council or high council is free to give-up the position at any time, when this happen a election on the council will be made and majority must be achieved to design a replacement.
+11 - Any member of the council or high council is free to give-up the position at any time, when this happen a election on the council will be made and majority must be achieved to decide a replacement.
+
+12 - Any member of the council that do not vote in polls in for more them 3 months will automatically give-up his position.
